@@ -15,9 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         System.out.println("how old are you");
-        System.out.println("how old are you");
-        System.out.println("how old are you");
-        System.out.println("how old are you");
+        System.out.println("good");
+        System.out.println("are you have time on today");
 
 
 
